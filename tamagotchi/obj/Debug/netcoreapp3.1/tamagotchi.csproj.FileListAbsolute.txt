@@ -1,0 +1,4 @@
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.csprojAssemblyReference.cache
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.AssemblyInfoInputs.cache
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.AssemblyInfo.cs
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.csproj.CoreCompileInputs.cache
