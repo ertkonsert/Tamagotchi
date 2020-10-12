@@ -17,24 +17,36 @@ namespace tamagotchi
         public void Feed()
         {
             hunger -= generator.Next(2, 3);
+            Console.WriteLine("You give " + name + "some food.");
+            Console.WriteLine(name + " seems happy and gobbles it up so fast you worry it will choke.");
+            ReduceBoredom();
         }
 
         public void Hi()
         {
-            if (words.Count > 1)
+
+            Console.WriteLine("You say:");
+            Console.WriteLine("'Hello " + name + "!'");
+            
+
+            if (words.Count > 0)
             {
+                Console.WriteLine(name + " responds:");
                 Console.WriteLine(words[generator.Next(words.Count)]);
             }
 
             else
             {
-                Console.WriteLine("Your Tamagotchi doesn't know any words yet!");
+                Console.WriteLine(name + " blinks at you in response.");
             }
+
+            ReduceBoredom();
         }
 
         public void Teach(string word)
         {
-            
+            words.Add(word);
+            ReduceBoredom();
         }
 
         public void Tick()
@@ -45,6 +57,15 @@ namespace tamagotchi
             {
                 isAlive = false;
             }
+
+            if (hunger < 0)
+            {
+                hunger = 0;
+            }
+            if (boredom < 0)
+            {
+                boredom = 0;
+            }
         }
 
         public void PrintStats()
@@ -53,11 +74,11 @@ namespace tamagotchi
             Console.WriteLine("Boredom: " + boredom);
             if (isAlive == true)
             {
-            Console.WriteLine("Your Tamagotchi is alive and well!");                
+            Console.WriteLine("Your Tamagotchi " + name + " is alive and well!");                
             }
             else
             {
-                Console.WriteLine("Your Tamagotchi has died. :(");
+                Console.WriteLine("Your Tamagotchi " + name + " has died. :(");
             }
         }
     
@@ -68,6 +89,7 @@ namespace tamagotchi
 
         private void ReduceBoredom()
         {
+            boredom -= generator.Next(1, 2);
 
         }
 

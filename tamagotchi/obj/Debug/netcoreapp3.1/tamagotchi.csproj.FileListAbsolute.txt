@@ -2,3 +2,12 @@ C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Deb
 C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.AssemblyInfoInputs.cache
 C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.AssemblyInfo.cs
 C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.exe
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.deps.json
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.runtimeconfig.json
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.runtimeconfig.dev.json
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.dll
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\bin\Debug\netcoreapp3.1\tamagotchi.pdb
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.dll
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.pdb
+C:\Users\marta.agren\Desktop\SSkol\Programmering 2\Tamagotchi\tamagotchi\obj\Debug\netcoreapp3.1\tamagotchi.genruntimeconfig.cache
