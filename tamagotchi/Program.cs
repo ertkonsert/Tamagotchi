@@ -10,6 +10,7 @@ namespace tamagotchi
             Console.Title = "It's Tamagotchi Time!! (it always is)";
             Console.WriteLine("Welcome to Tamagotchi Planet!");
             Console.WriteLine("Here you get to take care of your very own Tamagotchi! They are very helpless on their own and need someone to keep them alive, no pressure. :)");
+            Console.WriteLine("If it's hunger or boredom reaches 10, well......... let's just say that nothing good can ever come from that.");
             Console.WriteLine();
             Console.WriteLine("Press enter to adopt your first Tamagotchi!");
             Console.ReadLine();
